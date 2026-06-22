@@ -39,32 +39,16 @@ Become a Data Analyst and use data to solve real-world problems and drive impact
 ---
 
 🛠️ Skills
-
-Programming Languages
-
-- Python
-- SQL
-
-Data Analytics
-
-- Excel
-- Power BI
-- Pandas
-- NumPy
-
-Machine Learning
-
-- Scikit-Learn
-- Statistics
-- Data Preprocessing
-
-Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+<img src="images/python.png" width="60"/>
+<img src="images/pandas.png" width="60"/>
+<img src="images/numpy.png" width="60"/>
+<img src="images/matplotlib.png" width="60"/>
+<img src="images/seaborn.png" width="60"/>
+<img src="images/mysql.png" width="60"/>
 
 ---
 
-📂 Featured Projects
+💼 Featured Projects
+---
+
+🎖️ Certifications and Badges
