@@ -1,16 +1,24 @@
+<p align="center">
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/96c9ac1f-3892-4112-a25a-3cd70f49f0ce" />
+</p>
+
+
+
+
 Hi 👋, I'm Ansh Vishwakarma
 
-Aspiring AI/ML Engineer | B.Tech Student
+Aspiring Data Analytics | B.Tech Student
 
 ---
 
 👨‍💻 About Me
 
-🎓 B.Tech Student passionate about Artificial Intelligence and Machine Learning.
+🎓 B.Tech Student with a strong interest in Data Analytics and Machine Learning.
 
-🤖 Aspiring AI/ML Engineer.
+📊 Passionate about transforming raw data into meaningful insights and data-driven solutions.
 
-📊 Interested in Machine Learning, Data Analytics, and AI Applications.
+🤖 Aspiring Data Analytics, continuously learning and building projects to strengthen my technical skills.
+
 
 🌱 Currently Learning:
 
@@ -18,16 +26,14 @@ Aspiring AI/ML Engineer | B.Tech Student
 - SQL
 - Data Structures & Algorithms
 - Machine Learning
-- FastAPI
 
 🚀 Building Projects in:
 
 - Data Analytics
 - Machine Learning
-- AI Applications
 
 🎯 Goal:
-Become an AI/ML Engineer and build impactful AI solutions.
+Become an Data Analyst  and use data to solve real world problems.
 
 ---
 
