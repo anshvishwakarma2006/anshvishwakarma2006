@@ -61,3 +61,4 @@ Become a Data Analyst and use data to solve real-world problems and drive impact
 ---
 
 🎖️ Certifications and Badges
+<img src="python certificate.png" width="700"/>
