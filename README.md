@@ -64,4 +64,4 @@ Become a Data Analyst and use data to solve real-world problems and drive impact
 
 
 
-<img src="python certificate.png" width="190" alt="Python"/><img src="Data Analysis Certificate.png" width="190" alt=v"Data Analysis with Python"/>
+<img src="python certificate.png" width="190" alt="Python"/><img src="Data Analysis Certificate.png" width="190" alt="Data Analysis with Python"/>
