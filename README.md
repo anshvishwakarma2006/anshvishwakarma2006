@@ -62,11 +62,23 @@ Become a Data Analyst and use data to solve real-world problems and drive impact
 
 🎖️ Certifications and Badges
 
-<img src="What is Data Science.png" width="190" />
-<b>What is Data Science</b>
+## 🏆 Certifications and Badges
 
-<img src="python certificate.png" width="190" />
-<b>Python</b>
+<table>
+  <tr>
+    <td align="center">
+      <img src="What is Data Science.png" width="250"><br>
+      <b>What is Data Science</b>
+    </td>
+    <td align="center">
+      <img src="python certificate.png" width="250"><br>
+      <b>Python for Data Science, AI & Development</b>
+    </td>
+    <td align="center">
+      <img src="Data Analysis Certificate.png" width="250"><br>
+      <b>Data Analysis with Python</b>
+    </td>
+  </tr>
 
-<img src="Data Analysis Certificate.png" width="190"/>
-<b>Data Analysis with Python</b>
+  
+</table>
