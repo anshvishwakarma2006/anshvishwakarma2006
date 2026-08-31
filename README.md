@@ -84,3 +84,6 @@ Short description of the project, tools used, and key outcomes.
     </td>
   </tr>
 </table>
+
+## 🎖️ Achievements
+<table> <tr> <td align="center"> <img src="hackathon certificate.png" width="250"><br> <b>Hackathon Participation Certificate</b> </td> </tr> </table>
