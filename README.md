@@ -34,7 +34,7 @@
 
 🎯 **Goal:**
 
-My goal is to become a strong **Python Full Stack Developer** with practical expertise in **backend development, databases, data analytics, machine learning, and AI-powered applications**.
+My goal is to become a strong **Python Full Stack Developer** with practical expertise in **backend development, databases, machine learning, and AI-powered applications**.
 
 I enjoy learning by building projects and continuously improving my problem-solving and software development skills.
 
