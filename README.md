@@ -29,7 +29,9 @@
 * Python Full Stack Web Development
 
 🎯 **Goal:**
-Become a skilled Python Full Stack Developer, using technology and data to solve real-world problems and build impactful, end-to-end applications.
+My goal is to become a strong **Python Full Stack Developer** with practical expertise in **backend development, databases, data analytics, machine learning, and AI-powered applications**.
+
+I enjoy learning by building projects and continuously improving my problem-solving and software development skills.
 
 ---
 
