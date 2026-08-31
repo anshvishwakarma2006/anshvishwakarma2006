@@ -86,4 +86,5 @@ Short description of the project, tools used, and key outcomes.
 </table>
 
 ## 🎖️ Achievements
-<table> <tr> <td align="center"> <img src="Bhartiya Antariksh certificate-1.png" width="250"><br> <b>ISRO Bhartiya Antariksh Hackathon</b> </td> </tr> </table>
+<table> <tr> <td align="center"> <img src="Bhartiya Antariksh certificate-1.png" width="250"><br> <b>ISRO Bhartiya Antariksh Hackathon</b> </td>
+ <td align="center"> <img src="" width="250"><br> <b>ISRO Bhartiya Antariksh Hackathon</b> </td></tr> </table>
