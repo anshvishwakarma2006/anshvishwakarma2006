@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Student with a strong interest in Python Full Stack Development, Data Analytics, and Machine Learning.
+🎓 B.Tech Student with a strong interest in Python Full Stack Development, and Machine Learning.
 📊 Passionate about building complete, end-to-end web applications and transforming raw data into meaningful insights.
 💻 Aspiring Python Full Stack Developer, continuously learning and building projects to strengthen my technical skills.
 🤖 Also exploring Data Analytics and Machine Learning to complement my full stack skill set.
@@ -25,7 +25,6 @@
 * HTML, CSS, JavaScript
 
 🚀 **Building Projects In:**
-* Data Analytics
 * Machine Learning
 * Python Full Stack Web Development
 
